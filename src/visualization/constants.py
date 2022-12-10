@@ -1,0 +1,30 @@
+LIGHT_BLUE = '#429bf4'
+LIGHT_RED = '#FF5733'
+GREEN = '#27ae60'
+VIOLET = '#884ea0'
+ORANGE = '#d68910'
+YELLOW = '#f1c40f'
+DARK = '#222222'
+LIGHT = '#fafafa'
+GRAY = '#aaaaaa'
+
+CB_COLOR = '#E24A33'
+FW_COLOR = '#348ABD'
+MF_COLOR = '#FBC15E'
+WM_COLOR = '#8EBA42'
+
+POSITION_COLOR_DICT = {
+    'CB': CB_COLOR,
+    'FW': FW_COLOR,
+    'MF': MF_COLOR,
+    'WM': WM_COLOR
+}
+
+COMPARATOR_COLORS = [
+    LIGHT_BLUE,
+    LIGHT_RED,
+    GREEN,
+    ORANGE,
+    VIOLET,
+    YELLOW
+]
