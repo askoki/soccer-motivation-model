@@ -1,4 +1,4 @@
-football-motivation-optimisation
+soccer-motivation-optimisation
 ==============================
 
 A short description of the project.
